@@ -1,44 +1,84 @@
-<h1 align="center">
-  <img alt="MoveIT" title="MoveIT" src="./public/logo-full.svg" width="220px" />
-</h1>
+Seja muito bem-vindo ao meu perfil !
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+Meu nome é Eliezer 😄, moro em São Paulo, e trabalho há 4 anos como desenvolvedor web.
+Segue abaixo meus conhecimentos:
 
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=49AA26&labelColor=000000" alt="PRs welcome!" />
+### Avançados 🥇
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
+    <img height="32" src="./logo-html.png" alt="HTML"/>
+</a>
 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
+    <img height="32" src="./logo-css.png" alt="CSS"/>
+</a>
 
-<br>
+### Intermediários 🥈
+<a href="https://www.javascript.com/" target="_blank">
+  <img height="32" src="./logo-javascript.png" alt="JavaScript"/>
+</a>
 
-## 🚀 Tecnologias
+<a href="https://www.php.net/" target="_blank">
+  <img height="32" src="./logo-php.svg" alt="PHP"/>
+</a>
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+<a href="https://www.mysql.com/" target="_blank">
+  <img height="32" src="./logo-mysql.png" alt="MySQL"/>
+</a>
 
-- HTML
-- CSS
-- TypeScript
-- ReactJS
-- NextJS
+<a href="https://www.adobe.com/br/products/illustrator.html" target="_blank">
+  <img height="32" src="./logo-illustrator.png" alt="Illustrator"/>
+</a>
 
-## 💻 Projeto
+<a href="https://www.adobe.com/br/products/photoshop.html" target="_blank">
+  <img height="32" src="./logo-photoshop.png" alt="Photoshop"/>
+</a>
 
-O moveIT é um aplicativo que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador. 💰
+<a href="https://getbootstrap.com/" target="_blank">
+  <img height="32" src="./logo-bootstrap.png" alt="Bootstrap"/>
+</a>
 
-## 🔖 Layout
+### Básicos 🥉
+<a href="https://reactjs.org/">
+    <img height="32" src="./logo-react.png" alt="React JS"/>
+</a>
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/MQFfkABgCxPhDIZWAJQE9u/Move.it). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+<a href="https://nextjs.org/">
+    <img height="32" src="./logo-next.png" alt="Next JS"/>
+</a>
 
-## :memo: Licença
+<a href="https://www.typescriptlang.org/">
+  <img height="32" src="./logo-typescript.png" alt="TypeScript"/>
+</a>
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
+<a href="https://ejs.co/">
+  <img height="32" src="./logo-ejs.svg" alt="EJS"/>
+</a>
 
----
+<a href="https://www.sqlite.org/">
+  <img height="32" src="./logo-sqlite.png" alt="SQLite"/>
+</a>
 
-Feito em parceria com a Rocketseat :wave: [Participe da comunidade deles!](https://discordapp.com/invite/gCRAFhc)
+<a href="https://reactnative.dev/">
+  <img height="32" src="./logo-react.png" alt="React Native"/>
+</a>
+
+<a href="https://flutter.dev/">
+  <img height="32" src="./logo-flutter.png" alt="Flutter"/>
+</a>
+
+<a href="https://nodejs.org/en/">
+  <img height="32" src="./logo-node.png" alt="Node JS"/>
+</a>
+
+<a href="https://www.python.org/">
+  <img height="32" src="logo-typescript.png" alt="Python"/>
+</a>
+
+Um pouco mais ...
+.🚀🚀🚀 Estudando bastante para evoluir meus conhecimentos.
+⚡ Hobbies: Adoro ver filmes, séries, animes (sou fã de Naruto), amo natureza 🌱 e viajar ✈️.
+
+### Me segue lá:
+<a href="https://www.linkedin.com/in/eliezer-matos-52ab4433/">
+  <img alt="Meu linkedin" width="28" src="./logo-linkedin.svg" />
+</a> 
